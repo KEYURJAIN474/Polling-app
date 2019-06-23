@@ -1,0 +1,14 @@
+.formclass{
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 6rem 1rem 1rem 1rem;    
+
+}
+.list-group-item{
+margin-bottom:.6rem !important;
+}
+.plus{
+    float: right;
+    margin-left:0.5rem;
+}

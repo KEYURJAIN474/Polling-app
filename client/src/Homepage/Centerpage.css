@@ -1,0 +1,17 @@
+.centerpage{
+    background:rgb(206, 206, 206);
+    margin:2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding: 5rem;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    
+}
+.plus{
+    font-size:25px;
+    margin-right: 5px;
+    
+}
